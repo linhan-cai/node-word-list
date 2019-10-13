@@ -9,3 +9,7 @@ Vocabulary List Tool
     voice: "word.mp3"
 }
 ```
+
+#todo
+- save cache to db
+- upload voices to S3
